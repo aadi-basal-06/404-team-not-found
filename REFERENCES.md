@@ -27,3 +27,5 @@ https://hqlo.biomedcentral.com/articles/10.1186/s12955-024-02226-1
 https://doi.org/10.1186/1471-244X-13-91
 
 https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM5_Level-2-Somatic-Symptom-Adult.pdf
+
+
