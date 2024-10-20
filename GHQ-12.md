@@ -1,7 +1,6 @@
 12Q Questionnaire
-
+#
 Scoring is basically a 0-1-2-3 system
-Eg:
 #
 Now, what do the scores mean?
 #
