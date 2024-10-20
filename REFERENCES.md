@@ -17,3 +17,13 @@ https://pmc.ncbi.nlm.nih.gov/articles/instance/2962995/pdf/IJPsy-41-217.pdf
 https://score.awellhealth.com/calculations/ghq_12
 
 https://contentmanager.med.uvm.edu/docs/psqi_sleep_questionnaire_1_pg/ahec-documents/psqi_sleep_questionnaire_1_pg.pdf?sfvrsn=a8daeb9e_2
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC280704/
+
+https://www.carepatron.com/templates/general-health-questionnaire-ghq-12
+
+https://hqlo.biomedcentral.com/articles/10.1186/s12955-024-02226-1
+
+https://doi.org/10.1186/1471-244X-13-91
+
+https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM5_Level-2-Somatic-Symptom-Adult.pdf
