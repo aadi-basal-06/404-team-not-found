@@ -1,5 +1,5 @@
 # 404-team-not-found
-Hackathon; (Adarsh, Aadi, Abhishek, Keval)
+Hackathon; (Aadi, Keval, Avrit)
 
 
 Hey so basically I'm just creating this for the 26th Oct Hackathon, Kodikon.
